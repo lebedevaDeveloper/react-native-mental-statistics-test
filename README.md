@@ -21,4 +21,4 @@ npm run-script start
 
 ```
 
-![alt text](https://github.com/lebedevaDeveloper/react-native-mental-app-test/blob/main/screenshot.jpg?raw=true)
+![alt text](https://github.com/lebedevaDeveloper/react-native-mental-statistics-test/blob/main/screenshot.jpg?raw=true)
